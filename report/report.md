@@ -92,7 +92,7 @@
 
 * **Скриншоты и видео:**
 * *Скриншоты лежат в папке `report/images` репозитория.*
-* **Видео работы:** `report/`
+* **Видео работы:** https://drive.google.com/file/d/1O4meiPF8nQcZZItE_xGPdXCqlbyyr5kT/view?usp=sharing
 
 
 
