@@ -92,6 +92,8 @@
 
 * **Скриншоты и видео:**
 * *Скриншоты лежат в папке `report/images` репозитория.*
+![ОТказ](<images/Снимок экрана 2026-05-23 192417.png>)
+![Успех](<images/Снимок экрана 2026-05-23 192457.png>)
 * **Видео работы:** https://drive.google.com/file/d/1O4meiPF8nQcZZItE_xGPdXCqlbyyr5kT/view?usp=sharing
 
 
